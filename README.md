@@ -47,6 +47,7 @@ logistics-data-analytics-internship/
 │
 ├── Week-1-Strategic-Planning/
 │   └── README.md
+|   └── Week_1_task.docx 
 │
 ├── Week-2-Data-Preprocessing/
 │   ├── Dataset/
